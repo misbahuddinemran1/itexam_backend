@@ -57,6 +57,15 @@
             <scope>runtime</scope>
         </dependency>
 
+        <!-- POSTGRESQL DRIVER -->
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+
+
+
         <!-- FLYWAY -->
         <dependency>
             <groupId>org.flywaydb</groupId>
